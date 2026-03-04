@@ -45,7 +45,7 @@ This implementation follows a **request–response MQTT design pattern**.
 
 ---
 
-## SWhat's been done
+## What's been done
 
 This project includes:
 
