@@ -22,7 +22,7 @@ The purpose of this repository is to provide a clean proof-of-concept for:
 
 This implementation follows a **request–response MQTT design pattern**.
 
-### Components
+### Files involved
 
 1. **ESP (Client in both cases)**
 
